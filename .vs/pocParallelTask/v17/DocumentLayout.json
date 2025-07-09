@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rathor\\Downloads\\pocParallelTask\\pocParallelTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF4D2D7-302B-4ADF-B902-109D297332FE}|pocParallelTask\\pocParallelTask.csproj|c:\\users\\rathor\\downloads\\pocparalleltask\\pocparalleltask\\pocparalleltask\\controllers\\mycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF4D2D7-302B-4ADF-B902-109D297332FE}|pocParallelTask\\pocParallelTask.csproj|solutionrelative:pocparalleltask\\controllers\\mycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF4D2D7-302B-4ADF-B902-109D297332FE}|pocParallelTask\\pocParallelTask.csproj|c:\\users\\rathor\\downloads\\pocparalleltask\\pocparalleltask\\pocparalleltask\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF4D2D7-302B-4ADF-B902-109D297332FE}|pocParallelTask\\pocParallelTask.csproj|solutionrelative:pocparalleltask\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF4D2D7-302B-4ADF-B902-109D297332FE}|pocParallelTask\\pocParallelTask.csproj|c:\\users\\rathor\\downloads\\pocparalleltask\\pocparalleltask\\pocparalleltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF4D2D7-302B-4ADF-B902-109D297332FE}|pocParallelTask\\pocParallelTask.csproj|solutionrelative:pocparalleltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF4D2D7-302B-4ADF-B902-109D297332FE}|pocParallelTask\\pocParallelTask.csproj|c:\\users\\rathor\\downloads\\pocparalleltask\\pocparalleltask\\pocparalleltask\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF4D2D7-302B-4ADF-B902-109D297332FE}|pocParallelTask\\pocParallelTask.csproj|solutionrelative:pocparalleltask\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF4D2D7-302B-4ADF-B902-109D297332FE}|pocParallelTask\\pocParallelTask.csproj|c:\\users\\rathor\\downloads\\pocparalleltask\\pocparalleltask\\pocparalleltask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDF4D2D7-302B-4ADF-B902-109D297332FE}|pocParallelTask\\pocParallelTask.csproj|solutionrelative:pocparalleltask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF4D2D7-302B-4ADF-B902-109D297332FE}|pocParallelTask\\pocParallelTask.csproj|c:\\users\\rathor\\downloads\\pocparalleltask\\pocparalleltask\\pocparalleltask\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDF4D2D7-302B-4ADF-B902-109D297332FE}|pocParallelTask\\pocParallelTask.csproj|solutionrelative:pocparalleltask\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF4D2D7-302B-4ADF-B902-109D297332FE}|pocParallelTask\\pocParallelTask.csproj|c:\\users\\rathor\\downloads\\pocparalleltask\\pocparalleltask\\pocparalleltask\\model\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF4D2D7-302B-4ADF-B902-109D297332FE}|pocParallelTask\\pocParallelTask.csproj|solutionrelative:pocparalleltask\\model\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rathor\\Downloads\\pocParallelTask\\pocParallelTask\\pocParallelTask\\Program.cs",
+              "RelativeDocumentMoniker": "pocParallelTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Rathor\\Downloads\\pocParallelTask\\pocParallelTask\\pocParallelTask\\Program.cs",
+              "RelativeToolTip": "pocParallelTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:18:13.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Rathor\\Downloads\\pocParallelTask\\pocParallelTask\\pocParallelTask\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "pocParallelTask\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Rathor\\Downloads\\pocParallelTask\\pocParallelTask\\pocParallelTask\\WeatherForecast.cs",
+              "RelativeToolTip": "pocParallelTask\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:18:13.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rathor\\Downloads\\pocParallelTask\\pocParallelTask\\pocParallelTask\\appsettings.json",
+              "RelativeDocumentMoniker": "pocParallelTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rathor\\Downloads\\pocParallelTask\\pocParallelTask\\pocParallelTask\\appsettings.json",
+              "RelativeToolTip": "pocParallelTask\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T12:18:13.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Rathor\\Downloads\\pocParallelTask\\pocParallelTask\\pocParallelTask\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "pocParallelTask\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Rathor\\Downloads\\pocParallelTask\\pocParallelTask\\pocParallelTask\\Properties\\launchSettings.json",
+              "RelativeToolTip": "pocParallelTask\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T12:18:13.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "input.cs",
+              "DocumentMoniker": "C:\\Users\\Rathor\\Downloads\\pocParallelTask\\pocParallelTask\\pocParallelTask\\model\\input.cs",
+              "RelativeDocumentMoniker": "pocParallelTask\\model\\input.cs",
+              "ToolTip": "C:\\Users\\Rathor\\Downloads\\pocParallelTask\\pocParallelTask\\pocParallelTask\\model\\input.cs",
+              "RelativeToolTip": "pocParallelTask\\model\\input.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:18:13.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Rathor\\Downloads\\pocParallelTask\\pocParallelTask\\pocParallelTask\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "pocParallelTask\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Rathor\\Downloads\\pocParallelTask\\pocParallelTask\\pocParallelTask\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "pocParallelTask\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswBsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:18:13.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyController.cs",
+              "DocumentMoniker": "C:\\Users\\Rathor\\Downloads\\pocParallelTask\\pocParallelTask\\pocParallelTask\\Controllers\\MyController.cs",
+              "RelativeDocumentMoniker": "pocParallelTask\\Controllers\\MyController.cs",
+              "ToolTip": "C:\\Users\\Rathor\\Downloads\\pocParallelTask\\pocParallelTask\\pocParallelTask\\Controllers\\MyController.cs",
+              "RelativeToolTip": "pocParallelTask\\Controllers\\MyController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:18:13.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
